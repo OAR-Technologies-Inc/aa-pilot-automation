@@ -1,0 +1,22 @@
+# Credentials (never commit)
+config.json
+credentials/
+*.json
+!config.example.json
+!package.json
+
+# Runtime data
+data/
+screenshots/
+*.log
+
+# Session files
+session.json
+cookies.json
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

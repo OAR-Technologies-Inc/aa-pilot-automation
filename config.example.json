@@ -1,0 +1,27 @@
+{
+  "pilot": {
+    "employeeId": "YOUR_AA_EMPLOYEE_ID",
+    "password": "YOUR_AA_PASSWORD",
+    "name": "Your Name",
+    "base": "MIA",
+    "position": "FO",
+    "equipment": "737",
+    "division": "INT REGL",
+    "email": "your.email@gmail.com"
+  },
+  "calendar": {
+    "enabled": false,
+    "serviceAccountPath": "./credentials/google-calendar-sa.json",
+    "calendarId": "primary"
+  },
+  "automation": {
+    "deadheadScanDay": 16,
+    "checkinLeadTimeMinutes": 3,
+    "checkinDelaySeconds": 20,
+    "maxRetries": 5
+  },
+  "notifications": {
+    "channel": "telegram",
+    "chatId": "YOUR_CHAT_ID"
+  }
+}
