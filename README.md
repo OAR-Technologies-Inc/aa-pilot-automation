@@ -27,7 +27,7 @@ This public repo contains:
 
 **$30/month** — Full automation suite with all scripts, workflows, and ongoing updates.
 
-👉 **[Subscribe on Gumroad](https://gumroad.com/l/aa-pilot-pro)** 👈
+👉 **[Subscribe on Gumroad](https://totheskies.gumroad.com/l/aapilotpro)** 👈
 
 After subscribing, reply to your confirmation email with your GitHub username and you'll be added to the private repo within 24 hours.
 
